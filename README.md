@@ -1,6 +1,5 @@
-# first_app
-
-A new Flutter project.
+# Flutter Dice App
+First attempt at building a front-end mobile application using Flutter under the guidance of Maximilian Schwarzmueller. Fire up the app and press the text to get a random dice number.
 
 ## Getting Started
 
